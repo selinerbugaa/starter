@@ -1,0 +1,124 @@
+body { 
+    background-color:#B0E0E6; 
+    
+
+}
+p{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    ;
+}
+
+.header{
+    color:#	#E0FFFF ;
+    font-family:"Space Mono", monospace;
+    font-size: 24px;
+}
+
+.header1{
+    color:#00494D;
+    font-size: 20px;
+    font-family:"Space Mono", monospace;
+    
+}
+
+.header2{
+    color:#00494D;
+    font-size: 20px;
+    font-family:"Space Mono", monospace;
+}
+.button1{
+    border: none;
+    color: rgb(250, 250, 250);
+    background-color: rgb(11, 58, 48);
+    padding: 20px 40px;
+    text-align: center;
+    display:-webkit-inline-box;
+    font-size: 16px;
+    margin: 10px 5px;
+    
+}
+.button1:hover{background:rgb(73, 145, 163);}
+.custombutton{
+    border: none;
+    color: rgb(48, 54, 110);
+    background-color: rgb(205, 224, 220);
+    padding: 20px 40px;
+    text-align: center;
+    display:-webkit-inline-box;
+    font-size: 16px;
+    margin: 10px 5px;
+    
+}
+.custombutton:hover{background:rgb(73, 145, 163);}
+.header3{
+    color:#00494D;
+    font-size: 20px;
+    font-family:"Space Mono", monospace;
+}
+.tipclass{
+    float:right;
+padding:0 0 10px 10px;
+margin-left:auto;
+margin-right:auto;
+color: white;
+
+width: 450px;
+    height: 30px;
+    padding: 80px;
+    background-color: rgb(5, 87, 87);
+    position: absolute;
+    top: 20%;
+    left: 50%;
+
+}
+
+
+
+
+.tipclass1{
+    float:right;
+    padding:0 0 10px 10px;
+    margin-left:auto;
+    margin-right:auto;
+    color: white;
+    width: 450px;
+    height: 60px;
+    padding: 100px;
+    background-color: rgb(5, 87, 87);
+    position: absolute;
+    top: 40%;
+    left: 50%;   
+}
+
+
+
+
+.resetbutton{
+    float: right;
+      width: 200px;
+      position: fixed;
+      top: 450px;
+      right: 15px;
+      left:800px;
+      background-color: #84b8bb;
+
+      
+}
+.resetbutton:hover{background:rgb(179, 205, 211);}
+
+
+
+
+
+.kutu{
+    width: 1000px;
+    height: 500px;
+    padding: 20px;
+   background-color: white;
+    position: relative;
+    margin: auto;
+    
+}
+
