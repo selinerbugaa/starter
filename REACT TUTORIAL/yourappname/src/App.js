@@ -1,8 +1,6 @@
 
 import './App.css';
-import tip from "./components/tip";
-import User1 from "./components/tip1";
-import User2 from "./components/tip2";
+import Tip from "./components/tip1";
 import React from 'react';
 
 
@@ -84,7 +82,7 @@ callBackServiceSelected = (serviceData) => {
             </p>
             <label className="header1"> Selected Tip
           
-            <User1 callback={this.callBackServiceSelected} />
+            <Tip callback={this.callBackServiceSelected} />
                      
             </label>
            <p> <h3 className="header2"> Number of People</h3>
